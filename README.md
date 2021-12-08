@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hoseob Jeong (@flexseob)
-- 👀 I’m interested in Game, Tech
+- 👀 I’m interested in Game, Tech, Cryptocurrency
 - 🌱 I’m currently learning C++, OpenGL, UnrealEngine, DirectX
 - 📫 How to reach me to email or text to cellphone
 
